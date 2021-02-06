@@ -15,10 +15,11 @@ ${putih}[support_by]${biru} Sandi Pratama${putih} [channel_by]${biru} Sandi X-Da
 ${putih}[-] forum diskusi ${ijo}https://t.me/belajarnuyul
 ${ijo}                  https://t.me/kangrepot
 ${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -\n";
+$server="${putih}[-] server ${ijo}online \n";
 $pesan="[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 [-] resiko sepenuhnya di tanggung pengguna
 
 ";
 
-$nuyul=false;
+$nuyul=true;
