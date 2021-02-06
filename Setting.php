@@ -1,7 +1,7 @@
 <?php
 
 $versi = "1.0";
-$server = "skidipapap wkwkw";
+$server = "online 👍";
 $bot = "webminer";
 
 $capthca = "${kuning}
