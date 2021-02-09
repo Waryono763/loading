@@ -29,8 +29,7 @@ $bch_versi  = "1.0";
 $bch_server = "online";
 $bch_info   = "claim faucet";
 
-$bchjolly = "
-${merah}   ___  _______ __     __     ____
+$bchjolly = "${merah}   ___  _______ __     __     ____
 ${putih}  / _ )/ ___/ // / __ / /__  / / /_ __
 ${merah} / _  / /__/ _  / / // / _ \/ / / // /
 ${putih}/____/\___/_//_/  \___/\___/_/_/\_, /
