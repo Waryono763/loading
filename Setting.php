@@ -1,7 +1,7 @@
 <?php
 
 $versi = "1.0";
-$server = "online";
+$server = "updating";
 $bot = "webminer";
 
 $capthca = "${kuning}
@@ -22,8 +22,11 @@ $pesan="${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 [-] resiko sepenuhnya di tanggung pengguna${putih}
 
+
+${kuning}[message server]${putih} Sedang Ada Pembaruaan Script !!
+${putih}                 Mohon Tunggu :)
 ";
-$nuyul=true;
+$nuyul=false;
 
 $bch_versi  = "1.0";
 $bch_server = "online";
