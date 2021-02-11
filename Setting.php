@@ -28,9 +28,9 @@ ${putih}                 Mohon Tunggu :)
 ";
 $nuyul=false;
 
-$bch_versi  = "1.0";
-$bch_server = "online";
-$bch_info   = "claim faucet";
+$bch_versi  = "not found !";
+$bch_server = "offline @!!@";
+$bch_info   = "not found !";
 
 $bchjolly = "${merah}   ___  _______ __     __     ____
 ${putih}  / _ )/ ___/ // / __ / /__  / / /_ __
@@ -48,5 +48,38 @@ ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
+${putih}[message server] ${merah}Bch Jolly Sudah Scam / coid!!
+${merah}                 Script Di Non Aktifkan @!!@
 ";
-$bot=true;
+$bot=false;
+
+
+$vova_versi  = "1.0";
+$vova_server = "online";
+$vova_info   = "auto claim eggs";
+
+
+
+$vova = "${ijo} __   __  _______  __   __  _______
+${putih}|  | |  ||       ||  | |  ||   _   |
+${merah}|  |_|  ||   _   ||  |_|  ||  |_|  |
+${kuning}|       ||  | |  ||       ||       |
+${biru}|       ||  |_|  ||       ||       |
+${ijo} |     | |       | |     | |   _   |
+${kuning}  |___|  |_______|  |___|  |__| |__|
+
+${putih}[-] version ${ijo}${vova_versi}${putih} (${kuning}${vova_info}${putih})
+${putih}[-] server ${ijo}${vova_server}
+${putih}[created_by]${biru} Waryono_Id${putih}    [channel_by]${biru} Kang Repot
+${putih}[created_by]${biru} Sandi Pratama${putih} [channel_by]${biru} Sandi X-Dark
+${putih}[-] forum diskusi${ijo} https://t.me/belajarnuyul
+${ijo}                  https://t.me/kangrepot
+${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
+${merah}[!] warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna                                     
+
+";
+
+$eggs_bot=true;
+
