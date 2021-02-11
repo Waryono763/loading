@@ -78,7 +78,6 @@ ${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna                                     
-
 ";
 
 $eggs_bot=true;
