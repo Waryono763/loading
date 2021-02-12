@@ -82,3 +82,23 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 $eggs_bot=true;
 
+$play_on = "online";
+$play_v = "10.2.14";
+$play = "
+${merah}██${putih}██${merah}██${putih}╗ ██╗  ${merah}    ███${putih}██╗${merah} ██╗   ${putih}██╗
+${putih}██╔══██${merah}╗██║ ${putih}    ██╔═${merah}═██╗${putih}╚██╗${merah} ██╔╝${merah} P
+${merah}██${putih}██${merah}██╔${putih}╝██║ ${merah}    ████${putih}███║ ${merah}╚██${putih}██╔╝${putih} L
+${putih}██╔═══${merah}╝ ██║  ${putih}   ██╔═${merah}═██║${putih}  ╚█${merah}█╔╝${merah} A
+${merah}██║  ${putih}   ██${merah}███${putih}██${merah}╗██║${putih}  ██║ ${merah}  █${putih}█║${putih} Y
+${merah}╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝\n
+${merah}[${putih}script${merah}] ${putih}version 10.2.14${merah}(${putih}claim rewards${merah})
+${merah}[server] ${putih}$play_on
+${merah}[${putih}created_by${merah}]${putih} Waryono${merah} [${putih}channel_by${merah}]${putih} Kang Repot
+${merah}[${putih}created_by${merah}]${putih} Sandi Pratama${merah} [${putih}channel_by${merah}]${putih} Sandi X-Dark
+${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -
+[${merah}!${putih}]${merah} warning ${putih}
+[${merah}-${putih}] ${merah}ini adalah progam ilegal ${putih}!!
+[${merah}-${putih}] ${merah}resiko di tanggung oleh pengguna ${putih}!!
+
+";
+$play_bot=true;
