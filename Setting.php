@@ -118,7 +118,8 @@ ${ijo}        |  _    ||  | |  ||       ||       |
         | |_|   ||       || |_____ | |_____
 ${merah} >>|<<${ijo}  |_______||_______||_______||_______|${merah}  >>|<<
 
-${putih}[-] version ${ijo}${buzz_versi}${putih} (${kuning}${buzz_info}${putih})         ${putih}[-] server ${ijo}${buzz_server}
+${putih}[-] version ${ijo}${buzz_versi}${putih} (${kuning}${buzz_info}${putih})
+${putih}[-] server ${ijo}${buzz_server}
 ${putih}[created_by]${biru} Waryono_Id${putih}    [channel_by]${biru} Kang Repot
 ${putih}[support_by]${biru} Sandi Pratama${putih} [channel_by]${biru} Sandi X-Dark
 ${putih}[-] forum diskusi${ijo} https://t.me/belajarnuyul
