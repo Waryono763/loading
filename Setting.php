@@ -102,3 +102,33 @@ ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- 
 
 ";
 $play_bot=true;
+
+$buzz_versi  = "1.0";
+$buzz_server = "online";
+$buzz_info   = "claim bonus & watch video";
+
+
+
+$buzz = "${merah}
+ >>|<<${ijo}   _______  __   __  _______  _______${merah}   >>|<<
+${ijo}        |  _    ||  | |  ||       ||       |
+        | |_|   ||  | |  ||____   ||____   |
+        |       ||  |_|  | ____|  | ____|  |
+        |  _   | |       || ______|| ______|
+        | |_|   ||       || |_____ | |_____
+${merah} >>|<<${ijo}  |_______||_______||_______||_______|${merah}  >>|<<
+
+${putih}[-] version ${ijo}${buzz_versi}${putih} (${kuning}${buzz_info}${putih})         ${putih}[-] server ${ijo}${buzz_server}
+${putih}[created_by]${biru} Waryono_Id${putih}    [channel_by]${biru} Kang Repot
+${putih}[support_by]${biru} Sandi Pratama${putih} [channel_by]${biru} Sandi X-Dark
+${putih}[-] forum diskusi${ijo} https://t.me/belajarnuyul
+${ijo}                  https://t.me/kangrepot
+${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
+${merah}[!] warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
+
+";
+
+$buzz_bot=true;
+
