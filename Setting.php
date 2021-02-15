@@ -105,7 +105,7 @@ $play_bot=true;
 
 $buzz_versi  = "1.0";
 $buzz_server = "online";
-$buzz_info   = "claim bonus & watch video";
+$buzz_info   = "bonus / video / news";
 
 
 
