@@ -128,7 +128,7 @@ ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
-Update link : 
+Script Link -> 
 Harap Tunggu !!
 
 ";
@@ -146,6 +146,7 @@ ${ijo}        |  _    ||  | |  ||       ||       |
         |  _   | |       || ______|| ______|
         | |_|   ||       || |_____ | |_____
 ${merah} >>|<<${ijo}  |_______||_______||_______||_______|${merah}  >>|<<
+
 ${putih}[-] version ${ijo}${buzz_versi}${putih} (${kuning}${buzz_info}${putih})
 ${putih}[-] server ${ijo}${buzz_server}
 ${putih}[created_by]${biru} Waryono_Id${putih}    [channel_by]${biru} Kang Repot
