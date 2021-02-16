@@ -103,7 +103,7 @@ ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- 
 ";
 $play_bot=true;
 
-$buzz_versi  = "1.0";
+$buzz_versi  = "1.1";
 $buzz_server = "online";
 $buzz_info   = "bonus / video / news";
 
