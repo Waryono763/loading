@@ -127,7 +127,11 @@ ${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
+
+Update link : 
+Harap Tunggu !!
+
 ";
 
-$buzz_bot=true;
+$buzz_bot=false;
 
