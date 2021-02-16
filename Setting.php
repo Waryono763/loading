@@ -127,7 +127,10 @@ ${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
+
+[message server] sedang menghapus captcha ,
+                 mohon tunggu sebentar !
 ";
 
-$buzz_bot=true;
+$buzz_bot=false;
 
