@@ -128,7 +128,7 @@ ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
-Script Link -> 
+Script Link -> https://duit.cc/5ys
 Harap Tunggu !!
 
 ";
