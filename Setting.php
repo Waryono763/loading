@@ -159,3 +159,23 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 ";
 
 $buzz_kontol=true;
+
+
+$buzz_versi1  = "2.0";
+$buzz_server1 = "online";
+$bot_info1   = "bonus / news / video";
+
+$break_banner = "${putih}[-] script ->${ijo} [buzzbreak]
+${putih}[-] version${ijo} $buzz_versi1${putih} [${kuning}$bot_info1${putih}]
+${putih}[-] server bot ${ijo}${buzz_server1}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+
+${kuning}             ~ please subscribe channel ~
+${biru}                     Sandi X-Dark
+${biru}                      Kang Repot
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+$system=true;
