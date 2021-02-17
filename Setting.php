@@ -156,9 +156,17 @@ ${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
+
+${putih}[update script]
+${ijo}1 Fix error
+2 bug
+3 bacot
+
+${putih} script link ->${merah} https://duit.cc/dAP
+
 ";
 
-$buzz_kontol=true;
+$buzz_kontol=false;
 
 
 $buzz_versi1  = "2.0";
