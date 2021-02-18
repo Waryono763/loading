@@ -145,8 +145,10 @@ ${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
-${putih} Script Link -> ${ijo}https://duit.cc/5ys
+${putih} Script Link -> ${ijo}https://duit.cc/dAP
 ${putih} Script Sudah Di Update Silahkan Download :)
+
+
 ";
 
 $buzz_bot=false;
