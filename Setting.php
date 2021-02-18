@@ -187,3 +187,26 @@ ${kuninh}[-] resiko sepenuh nya di tanggung pengguna
 
 ";
 $system=true;
+
+
+
+$doge_server = "online";
+$doge_versi  = "1.0";
+$doge_info   = "mining";
+
+$doge_banner = "
+${putih}[-] ip${ijo} ${ip_address}
+${putih}[-] script ->${ijo} [doge dixmine]
+${putih}[-] version${ijo} ${doge_versi}${putih} [${kuning}${doge_info}${putih}]
+${putih}[-] server bot${ijo} ${doge_server}
+${putih}[-] Created by${biru} Waryono ${putih}&&${biru} Sandi Pratama
+
+${kuning}            ~ please subscribe channel ~
+${biru}                    Sandi X-Dark
+${biru}                     Kang Repot
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuning}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+$doge=true;
