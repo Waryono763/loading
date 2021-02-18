@@ -73,28 +73,21 @@ $bot=false;
 
 $vova_versi  = "1.0";
 $vova_server = "online";
-$vova_info   = "auto claim eggs";
+$vova_info   = "susbcribe dong 😚";
 
+$vova = "${putih}[-] ip ${ijo}${not_found}
+${putih}[-] script ->${kuning} [vova]
+${putih}[-] version${ijo} $vova_versi${putih} [${kuning}$vova_info${putih}]
+${putih}[-] server bot ${ijo}${vova_server}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
 
-
-$vova = "${ijo} __   __  _______  __   __  _______
-${putih}|  | |  ||       ||  | |  ||   _   |
-${merah}|  |_|  ||   _   ||  |_|  ||  |_|  |
-${kuning}|       ||  | |  ||       ||       |
-${biru}|       ||  |_|  ||       ||       |
-${ijo} |     | |       | |     | |   _   |
-${kuning}  |___|  |_______|  |___|  |__| |__|
-
-${putih}[-] version ${ijo}${vova_versi}${putih} (${kuning}${vova_info}${putih})
-${putih}[-] server ${ijo}${vova_server}
-${putih}[created_by]${biru} Waryono_Id${putih}    [channel_by]${biru} Kang Repot
-${putih}[created_by]${biru} Sandi Pratama${putih} [channel_by]${biru} Sandi X-Dark
-${putih}[-] forum diskusi${ijo} https://t.me/belajarnuyul
-${ijo}                  https://t.me/kangrepot
-${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -
+${kuning}             ~ please subscribe channel ~
+${biru}                     Sandi X-Dark
+${biru}                      Kang Repot
 ${merah}[!] warning !!
-${kuning}[-] ini adalah progam ilegal
-${kuning}[-] resiko sepenuhnya di tanggung pengguna                                     
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
 ";
 
 $eggs_bot=true;
