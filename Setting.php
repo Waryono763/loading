@@ -223,3 +223,26 @@ ${kuning}[-] resiko sepenuh nya di tanggung pengguna
 
 ";
 $doge=true;
+
+
+$wheel_info   = "susbcribe dong 😚";
+$wheel_versi  = "1.0";
+$wheel_server = "online";                                                               
+
+$wheel = "${putih}[-] ip ${ijo}${not_found}
+${putih}[-] script ->${kuning} [Bitcoin cash wheel]
+${putih}[-] version${ijo} $wheel_versi${putih} [${kuning}$wheel_info${putih}]
+${putih}[-] server bot ${ijo}${wheel_server}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+
+${kuning}             ~ please subscribe channel ~
+${biru}                     Sandi X-Dark
+${biru}                      Kang Repot
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+
+$wheel_stat=true;
+
