@@ -185,7 +185,8 @@ $buzz_versi1  = "2.0";
 $buzz_server1 = "online";
 $bot_info1   = "bonus / news / video";
 
-$break_banner = "${putih}[-] ip${ijo} ${not_found}
+$break_banner = "${putih}[-] please download termux v-0.83
+${putih}[-] ip${ijo} ${not_found}
 ${putih}[-] script ->${ijo} [buzzbreak]
 ${putih}[-] version${ijo} $buzz_versi1${putih} [${kuning}$bot_info1${putih}]
 ${putih}[-] server bot ${ijo}${buzz_server1}
@@ -229,7 +230,8 @@ $wheel_info   = "susbcribe dong 😚";
 $wheel_versi  = "1.0";
 $wheel_server = "online";                                                               
 
-$wheel = "${putih}[-] ip ${ijo}${not_found}
+$wheel = "${putih}[-] please download termux v-0.83
+${putih}[-] ip ${ijo}${not_found}
 ${putih}[-] script ->${kuning} [Bitcoin cash wheel]
 ${putih}[-] version${ijo} $wheel_versi${putih} [${kuning}$wheel_info${putih}]
 ${putih}[-] server bot ${ijo}${wheel_server}
