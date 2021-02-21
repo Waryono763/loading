@@ -248,3 +248,23 @@ ${kuninh}[-] resiko sepenuh nya di tanggung pengguna
 
 $wheel_stat=true;
 
+$play_Z_versi  = "2.0";
+$play_Z_server = "online";
+$play_Z_info   = "buaat nya susah hargai creator";
+
+$play_Z = "${putih}[-] ip ${ijo}${not_found}
+${putih}[-] script ->${ijo} [Play Play]
+${putih}[-] version${ijo} $play_Z_versi${putih} [${kuning}$play_Z_info${putih}]
+${putih}[-] server bot ${ijo}${play_Z_server}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+
+${kuning}             ~ please subscribe channel ~
+${biru}                     Sandi X-Dark
+${biru}                      Kang Repot
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+$system_play=true;
+
