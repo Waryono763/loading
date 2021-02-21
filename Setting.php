@@ -86,7 +86,7 @@ ${biru}                     Sandi X-Dark
 ${biru}                      Kang Repot
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
-${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+${kuning}[-] resiko sepenuh nya di tanggung pengguna
 
 ${kuning}[!]${putih} peringatan aplikasi vova yang bertenak ,
     itu bukan paypal melainkan kupon sampah,
