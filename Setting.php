@@ -269,7 +269,7 @@ ${biru}                     Sandi X-Dark
 ${biru}                      Kang Repot
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
-${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+${kuning}[-] resiko sepenuh nya di tanggung pengguna
 
 ";
 $system_play=true;
