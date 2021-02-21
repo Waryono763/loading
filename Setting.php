@@ -116,8 +116,15 @@ ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- 
 [${merah}-${putih}] ${merah}ini adalah progam ilegal ${putih}!!
 [${merah}-${putih}] ${merah}resiko di tanggung oleh pengguna ${putih}!!
 
+${kuning}[!] sedang update !!
+[!] harap di tunggu yang gak terima,
+    ku pecahkan telur klean
+    
+[!] please in update !!
+
+${putih}[-] date >> 02-23-2021 <<
 ";
-$play_bot=true;
+$play_bot=false;
 
 $buzz_versi  = "1.1";
 $buzz_server = "online";
