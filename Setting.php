@@ -88,9 +88,15 @@ ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
 ${kuninh}[-] resiko sepenuh nya di tanggung pengguna
 
+${kuning}[!]${putih} peringatan aplikasi vova yang bertenak ,
+    itu bukan paypal melainkan kupon sampah,
+    jadi jangan mainkan karna itu bukan paypal !!.
+    
+${merah}[-] script nonaktif .
+
 ";
 
-$eggs_bot=true;
+$eggs_bot=false;
 
 $play_on = "online";
 $play_v = "10.2.14";
