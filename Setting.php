@@ -215,7 +215,7 @@ $doge_versi  = "1.0";
 $doge_info   = "mining";
 
 $doge_banner = "
-${putih}[-] ip${ijo} ${ip_address}
+${putih}[-] ip${ijo} ${not_found}
 ${putih}[-] script ->${ijo} [doge dixmine]
 ${putih}[-] version${ijo} ${doge_versi}${putih} [${kuning}${doge_info}${putih}]
 ${putih}[-] server bot${ijo} ${doge_server}
