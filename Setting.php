@@ -276,3 +276,23 @@ ${kuning}[-] resiko sepenuh nya di tanggung pengguna
 ";
 $system_play=true;
 
+$coin_versi  = "2.0";
+$coin_server = "online";
+$coin_info   = "wd via expresscrypto";
+
+$doge_coin = "${putih}[-] ip ${ijo}${not_found}
+${putih}[-] script ->${ijo} [Earn Doge Coin]
+${putih}[-] version${ijo} $coin_versi${putih} [${kuning}$coin_info${putih}]
+${putih}[-] server bot ${ijo}${coin_server}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+
+${kuning}             ~ please subscribe channel ~
+${biru}                     Sandi X-Dark
+${biru}                      Kang Repot
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+
+$system_coin=true;
