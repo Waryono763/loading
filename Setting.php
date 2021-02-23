@@ -294,5 +294,27 @@ ${kuning}[-] ini adalah proggam ilegal
 ${kuninh}[-] resiko sepenuh nya di tanggung pengguna
 
 ";
-
 $system_coin=true;
+
+
+$cash_versi  = "2.0";
+$cash_server = "online";
+$cash_info   = "tidak ada info";
+
+$_error_ = "${putih}[-] ip ${ijo}${not_found}
+${putih}[-] script ->${ijo} [Cash Buddy]
+${putih}[-] version${ijo} $cash_versi${putih} [${kuning}$cash_info${putih}]
+${putih}[-] server bot ${ijo}${cash_server}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+
+${kuning}             ~ please subscribe channel ~
+${biru}                   > Sandi X-Dark <
+${biru}                    > Kang Repot <
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+
+$system_cash=true;
+
