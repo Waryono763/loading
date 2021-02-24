@@ -16,7 +16,29 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_HTTPHEADER, $error);
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
-	
+
+$big_versi  = "1.0";
+$big_server = "online";
+$big_info   = "tidak ada info";
+
+$big = "${putih}[-] ip ${ijo}${not_found}
+${putih}[-] script ->${ijo} [Bigcash]
+${putih}[-] version${ijo} $big_versi${putih} [${kuning}$big_info${putih}]
+${putih}[-] server bot ${ijo}${big_server}
+${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+
+${kuning}             ~ please subscribe channel ~
+${biru}                   > Sandi X-Dark <
+${biru}                    > Kang Repot <
+${merah}[!] warning !!
+${kuning}[-] ini adalah proggam ilegal
+${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+
+";
+$system_big=true;
+
+
+
 $versi = "1.0";
 $server = "updating";
 $bot = "webminer";
