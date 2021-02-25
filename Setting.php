@@ -20,14 +20,17 @@ $not_found = curl_exec($ch);
 $server_buzz = "online";
 $server_versi = "2.5";
 
-$system_error = "${kuning} >${putih} ip${ijo} ${not_found}
-${kuning} >${putih} server ${ijo}${server_buzz}
-${kuning} >${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
-${kuning} >${putih} YTchannel${biru} Kang Repot
-                             ${biru} Sandi X-Dark
-${kuning} >${merah} warning !!
-${kuning} > ini adalah proggam ilegal
-${kuning} > resiko di tanggung oleh pengguna
+$system_error = "${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${server_buzz}
+${kuning}>${putih} version ${ijo}${server_versi} ${putih}(${ijo}buzzbreak${putih})
+${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
+
+${kuning}         don't forget to subscribe
+${biru}                  Kang Repot
+${biru}                 Sandi X-Dark
+${kuning}>${merah} warning
+${kuning}> this is an illegal program
+${kuning}> the risk is borne by the user
 
 ";
 $get_buzz=true;
