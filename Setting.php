@@ -23,8 +23,8 @@ $server_versi = "2.5";
 $system_error = "${kuning} >${putih} ip${ijo} ${not_found}
 ${kuning} >${putih} server ${ijo}${server_buzz}
 ${kuning} >${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
-${kuning} >${putih} YTchannel${biru} Kang Repot${putih} &&${biru} Sandi X-Dark
-
+${kuning} >${putih} YTchannel${biru} Kang Repot
+                             ${biru} Sandi X-Dark
 ${kuning} >${merah} warning !!
 ${kuning} > ini adalah proggam ilegal
 ${kuning} > resiko di tanggung oleh pengguna
