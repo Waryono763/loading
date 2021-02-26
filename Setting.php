@@ -17,6 +17,27 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$server_leme = "online";
+$server_leme_v = "1.0";
+
+$leme = "${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${server_leme}
+${kuning}>${putih} version ${ijo}${server_leme_v} ${putih}(${ijo}LemeClaim.website${putih})
+${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
+
+${kuning}         don't forget to subscribe
+${biru}                  Kang Repot
+${biru}                 Sandi X-Dark
+${kuning}>${merah} warning
+${kuning}> this is an illegal program
+${kuning}> the risk is borne by the user
+
+";
+
+$get_leme=true;
+
+
+
 $server_buzz = "online";
 $server_versi = "2.5";
 
