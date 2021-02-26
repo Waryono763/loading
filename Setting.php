@@ -17,6 +17,24 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$server_dm = "online";
+$server_dm_v = "1.0";
+
+$diamond = "${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${server_dm}
+${kuning}>${putih} version ${ijo}${server_dm_v} ${putih}(${ijo}Free Bitcoin scratch${putih})
+${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
+
+${kuning}         don't forget to subscribe
+${biru}                  Kang Repot
+${biru}                 Sandi X-Dark
+${kuning}>${merah} warning
+${kuning}> this is an illegal program
+${kuning}> the risk is borne by the user
+
+";
+$get_diamond=true;
+
 $server_leme = "online";
 $server_leme_v = "1.0";
 
