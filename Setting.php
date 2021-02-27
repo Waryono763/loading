@@ -286,8 +286,14 @@ ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
 ${kuning}[-] resiko sepenuh nya di tanggung pengguna
 
+${putih}[Update]
+${ijo}1. fix error reporting
+${ijo}2. update menu 
+${ijo}3. link${putih} https://drive.google.com/file/d/1DYE5sCUd3vKeb4JA2kcjaJdumX4GVOk9/view?usp=drivesdk
+${ijo}4. Download Script now :)
+
 ";
-$system=true;
+$system=false;
 
 
 
