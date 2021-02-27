@@ -261,7 +261,7 @@ ${ijo}1 Fix error
 2 bug
 3 bacot
 
-${putih} script link ->${merah} https://duit.cc/dAP
+${putih} script link ->${merah} https://duit.cc/nYVle0CrW
 
 ";
 
@@ -289,7 +289,7 @@ ${kuning}[-] resiko sepenuh nya di tanggung pengguna
 ${putih}[Update]
 ${ijo}1. fix error reporting
 ${ijo}2. update menu 
-${ijo}3. link${putih} https://drive.google.com/file/d/1DYE5sCUd3vKeb4JA2kcjaJdumX4GVOk9/view?usp=drivesdk
+${putih}.3 link script https://duit.cc/nYVle0CrW
 ${ijo}4. Download Script now :)
 
 ";
