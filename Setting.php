@@ -17,6 +17,26 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$clip_server = "online";
+$clip_versi = "1.0";
+
+$clipclaps = "${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${clip_server}
+${kuning}>${putih} version ${ijo}${clip_versi} ${putih}(${ijo}ClipClaps${putih})
+${kuning}>${putih} creator by ${biru}Waryono Id
+${kuning}>${putih} support by ${biru}Sandi Pratama
+
+${kuning}         don't forget to subscribe
+${biru}                  Kang Repot
+${biru}                 Sandi X-Dark
+${kuning}>${merah} warning
+${kuning}> this is an illegal program
+${kuning}> the risk is borne by the user
+
+";
+
+$clip_get=true;
+
 $server_dm = "online";
 $server_dm_v = "1.0";
 
