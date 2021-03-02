@@ -23,12 +23,12 @@ $free_versi = "1.0";
 $free = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${free_server}
 ${kuning}>${putih} version ${ijo}${free_versi} ${putih}(${ijo}freecrypto.claims${putih})
-${kuning}>${putih} creator by ${biru}Waryono Id
+${kuning}>${putih} creator by ${biru}Waryono
 ${kuning}>${putih} support by ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
-${biru}                  Kang Repot
-${biru}                 Sandi X-Dark
+${biru}                  Waryono Okw
+${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -43,12 +43,12 @@ $clip_versi = "1.0";
 $clipclaps = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${clip_server}
 ${kuning}>${putih} version ${ijo}${clip_versi} ${putih}(${ijo}ClipClaps${putih})
-${kuning}>${putih} creator by ${biru}Waryono Id
+${kuning}>${putih} creator by ${biru}Waryono
 ${kuning}>${putih} support by ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
-${biru}                  Kang Repot
-${biru}                 Sandi X-Dark
+${biru}                  Waryono Okw
+${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -66,8 +66,8 @@ ${kuning}>${putih} version ${ijo}${server_dm_v} ${putih}(${ijo}Free Bitcoin scra
 ${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
-${biru}                  Kang Repot
-${biru}                 Sandi X-Dark
+${biru}                  Waryono Okw
+${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -105,8 +105,8 @@ ${kuning}>${putih} version ${ijo}${server_versi} ${putih}(${ijo}buzzbreak${putih
 ${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
-${biru}                  Kang Repot
-${biru}                 Sandi X-Dark
+${biru}                  Waryono Okw
+${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -371,8 +371,8 @@ ${putih}[-] server bot ${ijo}${wheel_server}
 ${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
 
 ${kuning}             ~ please subscribe channel ~
-${biru}                     Sandi X-Dark
-${biru}                      Kang Repot
+${biru}                     Sandi Channel Tv
+${biru}                       Waryono Okw
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
 ${kuning}[-] resiko sepenuh nya di tanggung pengguna
@@ -433,8 +433,8 @@ ${putih}[-] server bot ${ijo}${cash_server}
 ${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
 
 ${kuning}             ~ please subscribe channel ~
-${biru}                   > Sandi X-Dark <
-${biru}                    > Kang Repot <
+${biru}                   > Sandi Channel Tv <
+${biru}                      > Waryono Okw <
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
 ${kuninh}[-] resiko sepenuh nya di tanggung pengguna
