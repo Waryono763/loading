@@ -17,6 +17,26 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$free_server = "online";
+$free_versi = "1.0";
+
+$free = "${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${free_server}
+${kuning}>${putih} version ${ijo}${free_versi} ${putih}(${ijo}freecrypto.claims${putih})
+${kuning}>${putih} creator by ${biru}Waryono Id
+${kuning}>${putih} support by ${biru}Sandi Pratama
+
+${kuning}         don't forget to subscribe
+${biru}                  Kang Repot
+${biru}                 Sandi X-Dark
+${kuning}>${merah} warning
+${kuning}> this is an illegal program
+${kuning}> the risk is borne by the user
+
+";
+
+$free_get=true;
+
 $clip_server = "online";
 $clip_versi = "1.0";
 
