@@ -17,3 +17,44 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$_error_ = "
+
+";
+$system_cash=true;
+
+$wheel = "
+
+";
+
+$wheel_stat=true;
+
+$system_error = "
+
+";
+
+$get_buzz=true;
+
+$leme = "
+
+";
+$get_leme=true;
+
+$diamond = "
+
+";
+$get_diamond=true;
+
+$clipclaps = "
+
+";
+$clip_get=true;
+
+$free = "
+
+";
+$free_get=true;
+
+
+
+
+
