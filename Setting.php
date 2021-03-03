@@ -27,7 +27,20 @@ $_error_ = "
 ";
 $system_cash=true;
 
+$wheel_versi = "1.0";
+$wheel_server = "online";
+
 $wheel = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${wheel_server}
+${kuning}>${putih} versi ${ijo}${wheel_versi}${putih} (${ijo}Bitcoin Cash Wheel${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 
