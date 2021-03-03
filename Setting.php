@@ -445,7 +445,7 @@ ${kuning}             ~ please subscribe channel ~
 ${biru}                      > Waryono Okw <
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
-${kuninh}[-] resiko sepenuh nya di tanggung pengguna
+${kuning}[-] resiko sepenuh nya di tanggung pengguna
 
 ";
 
