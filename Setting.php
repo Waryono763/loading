@@ -80,7 +80,20 @@ $clipclaps = "
 ";
 $clip_get=true;
 
+$free_versi = "1.0";
+$free_server = "online";
+
 $free = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${free_server}
+${kuning}>${putih} versi ${ijo}${free_versi}${putih} (${ijo}ndak bisa bhs inggris${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 $free_get=true;
