@@ -20,18 +20,7 @@ $not_found = curl_exec($ch);
 $view_server = "online";
 $view_versi = "1.0";
 
-$view = "${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${view_server}
-${kuning}>${putih} version ${ijo}${view_versi} ${putih}(${ijo}view4.my-crypto-corner.com${putih})
-${kuning}>${putih} creator by ${biru}Waryono
 
-${kuning}         don't forget to subscribe
-${biru}                  Waryono Okw
-${kuning}>${merah} warning
-${kuning}> this is an illegal program
-${kuning}> the risk is borne by the user
-
-";
 
 $view_get=true;
 
