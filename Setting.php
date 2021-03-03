@@ -24,11 +24,9 @@ $view = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${view_server}
 ${kuning}>${putih} version ${ijo}${view_versi} ${putih}(${ijo}view4.my-crypto-corner.com${putih})
 ${kuning}>${putih} creator by ${biru}Waryono
-${kuning}>${putih} support by ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
 ${biru}                  Waryono Okw
-${biru}                 Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -44,11 +42,9 @@ $free = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${free_server}
 ${kuning}>${putih} version ${ijo}${free_versi} ${putih}(${ijo}freecrypto.claims${putih})
 ${kuning}>${putih} creator by ${biru}Waryono
-${kuning}>${putih} support by ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
 ${biru}                  Waryono Okw
-${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -64,11 +60,9 @@ $clipclaps = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${clip_server}
 ${kuning}>${putih} version ${ijo}${clip_versi} ${putih}(${ijo}ClipClaps${putih})
 ${kuning}>${putih} creator by ${biru}Waryono
-${kuning}>${putih} support by ${biru}Sandi Pratama
 
 ${kuning}         don't forget to subscribe
 ${biru}                  Waryono Okw
-${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -83,11 +77,10 @@ $server_dm_v = "1.0";
 $diamond = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${server_dm}
 ${kuning}>${putih} version ${ijo}${server_dm_v} ${putih}(${ijo}Free Bitcoin scratch${putih})
-${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
+${kuning}>${putih} creator${biru} Waryono
 
 ${kuning}         don't forget to subscribe
 ${biru}                  Waryono Okw
-${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -101,11 +94,10 @@ $server_leme_v = "1.0";
 $leme = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${server_leme}
 ${kuning}>${putih} version ${ijo}${server_leme_v} ${putih}(${ijo}LemeClaim.website${putih})
-${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
+${kuning}>${putih} creator${biru} Waryono
 
 ${kuning}         don't forget to subscribe
-${biru}                  Kang Repot
-${biru}                 Sandi X-Dark
+${biru}                  Waryono Okw
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -122,11 +114,10 @@ $server_versi = "2.5";
 $system_error = "${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${server_buzz}
 ${kuning}>${putih} version ${ijo}${server_versi} ${putih}(${ijo}buzzbreak${putih})
-${kuning}>${putih} creator${biru} Waryono${putih} && ${biru}Sandi Pratama
+${kuning}>${putih} creator${biru} Waryono
 
 ${kuning}         don't forget to subscribe
 ${biru}                  Waryono Okw
-${biru}                Sandi Channel Tv
 ${kuning}>${merah} warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is borne by the user
@@ -170,10 +161,6 @@ $capthca = "${kuning}
 ${putih}[-] version${ijo} ${versi}${putih} (${kuning}${bot}${putih})
 ${putih}[-] server${ijo} ${server}
 ${putih}[created_by]${biru} Waryono${putih} [channel_by]${biru} Kang Repot
-${putih}[support_by]${biru} Sandi Pratama${putih} [channel_by]${biru} Sandi X-Dark
-${putih}[-] forum diskusi ${ijo}https://t.me/belajarnuyul
-${ijo}                  https://t.me/kangrepot
-${merah}- - - - - - - - - - - - - - - - - - - - - - - - - - -\n";
 $pesan="${merah}[!] warning !!
 ${kuning}[-] ini adalah progam ilegal
 [-] resiko sepenuhnya di tanggung pengguna${putih}
@@ -257,8 +244,10 @@ ${merah}-${putih} -${merah} - ${putih}- ${merah}-${putih} -${merah} - ${putih}- 
 
 ${merah}[-] kalok gak work jangan banyak tanya !!
 
+Gk terima ?
+
 ";
-$play_bot=true;
+$play_bot=false;
 
 $buzz_versi  = "1.1";
 $buzz_server = "online";
@@ -450,10 +439,9 @@ $_error_ = "${putih}[-] ip ${ijo}${not_found}
 ${putih}[-] script ->${ijo} [Cash Buddy]
 ${putih}[-] version${ijo} $cash_versi${putih} [${kuning}$cash_info${putih}]
 ${putih}[-] server bot ${ijo}${cash_server}
-${putih}[-] Created by${biru} Waryono${putih} &&${biru} Sandi Pratama
+${putih}[-] Created by${biru} Waryono
 
 ${kuning}             ~ please subscribe channel ~
-${biru}                   > Sandi Channel Tv <
 ${biru}                      > Waryono Okw <
 ${merah}[!] warning !!
 ${kuning}[-] ini adalah proggam ilegal
