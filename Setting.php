@@ -22,7 +22,19 @@ $view = "
 ";
 $view_get=true;
 
+$cash_versi = "1.0";
+$cash_server = "online";
+
 $_error_ = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${cash_server}
+${kuning}>${putih} versi ${ijo}${cash_versi}${putih} (${ijo}cash buddy${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!                                                                                      ${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 $system_cash=true;
