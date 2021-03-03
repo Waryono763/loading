@@ -20,7 +20,7 @@ $not_found = curl_exec($ch);
 $view = "
 
 ";
-$get_view=true;
+$view_get=true;
 
 $_error_ = "
 
