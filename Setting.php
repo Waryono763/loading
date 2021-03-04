@@ -91,6 +91,21 @@ ${kuning}> the risk is entirely borne by the user
 
 $get_buzz=true;
 
+$buzzbreak = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${buzz_server}
+${kuning}>${putih} versi ${ijo}${buzz_versi}${putih} (${ijo}buzzbreak${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
+
+";
+$new_bot=true;
+
 $leme_versi = "1.0";
 $leme_server = "online";
 
