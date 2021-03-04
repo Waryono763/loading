@@ -87,11 +87,9 @@ ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
 
- ! Wait for updating visitor id
-
 ";
 
-$get_buzz=false;
+$get_buzz=true;
 
 $leme_versi = "1.0";
 $leme_server = "online";
