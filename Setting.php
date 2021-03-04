@@ -26,7 +26,8 @@ ${kuning}>${putih} server ${ijo}${view_server}
 ${kuning}>${putih} versi ${ijo}${view_versi}${putih} (${ijo}gaskeun masih legit${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
-${putih}         don't forget to subscribe                                                                ${putih}                (${biru}Waryono Okw${putih})
+${putih}
+${putih}                (${biru}Waryono Okw${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
