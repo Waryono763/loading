@@ -86,10 +86,12 @@ ${putih}                (${biru}Waryono Okw${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
-
+${ijo}
+> please update script
+> link script : https://pastelink.net/2pfrv
 ";
 
-$get_buzz=true;
+$get_buzz=false;
 
 $buzzbreak = "
 ${kuning}>${putih} ip ${ijo}${not_found}
