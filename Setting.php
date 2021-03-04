@@ -17,7 +17,19 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$view_versi = "1.0";
+$view_server = "online";
+
 $view = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${view_server}
+${kuning}>${putih} versi ${ijo}${view_versi}${putih} (${ijo}gaskeun masih legit${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe                                                                ${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 $view_get=true;
@@ -77,17 +89,55 @@ ${kuning}> the risk is entirely borne by the user
 
 $get_buzz=true;
 
+$leme_versi = "1.0";
+$leme_server = "online";
+
 $leme = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${leme_server}
+${kuning}>${putih} versi ${ijo}${leme_versi}${putih} (${ijo}please subscribe${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe                                                                ${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 $get_leme=true;
 
+$dm_versi = "1.0";
+$dm_server = "online";
+
 $diamond = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${dm_server}
+${kuning}>${putih} versi ${ijo}${dm_versi}${putih} (${ijo}lanjutkan${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 $get_diamond=true;
 
+$clip_versi = "1.0";
+$clip_server = "online";
+
 $clipclaps = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${clip_server}
+${kuning}>${putih} versi ${ijo}${clip_versi}${putih} (${ijo}clipclaps${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
 
 ";
 $clip_get=true;
