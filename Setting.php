@@ -17,7 +17,7 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
-big_versi = "1.0";
+$big_versi = "1.0";
 $big_server = "online";
 
 $big = "
