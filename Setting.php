@@ -17,6 +17,24 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+big_versi = "1.0";
+$big_server = "online";
+
+$big = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${big_server}
+${kuning}>${putih} versi ${ijo}${big_versi}${putih} (${ijo}bigcash${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
+
+";
+$system_big=true;
+
 $view_versi = "1.0";
 $view_server = "online";
 
