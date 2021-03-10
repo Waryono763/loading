@@ -17,6 +17,25 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$faucet_versi = "1.0";
+$faucet_server = "online";
+
+$faucet = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${faucet_server}
+${kuning}>${putih} versi ${ijo}${faucet_versi}${putih} (${ijo}faucet-dogecoin.xyz${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
+
+";
+
+$system_faucet=true;
+
 $beat_versi = "2.0";
 $beat_server = "online";
 
