@@ -17,6 +17,24 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$ex_versi = "1.0";
+$ex_server = "online";
+
+$auto = "
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${ex_server}
+${kuning}>${putih} versi ${ijo}${ex_versi}${putih} (${ijo}tinggal pake gak usah banyak bct${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
+
+";
+$system_auto=true;
+
 $lite_versi = "1.0";
 $lite_server = "online";
 
