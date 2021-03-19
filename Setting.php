@@ -1,6 +1,6 @@
 <?php
 
-
+error_reporting(0);
 
 $error = array(
 	"Host: v4.myipstack.com",
@@ -272,7 +272,7 @@ ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
 
 ${kuning} > please update script 1.5
-${putih}   link :${ijo} https://pastelink.net/2qt3i
+${putih}   link :${ijo} https://pastelink.net/2qt8y
 ";
 $clip_get=false;
 
