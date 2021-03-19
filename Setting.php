@@ -254,7 +254,7 @@ ${kuning}> the risk is entirely borne by the user
 ";
 $get_diamond=true;
 
-$clip_versi = "1.0";
+$clip_versi = "?";
 $clip_server = "online";
 
 $clipclaps = "
@@ -269,8 +269,10 @@ ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
 
+${kuning} > please update script 1.5
+${putih}   link :${ijo} https://pastelink.net/2qt3i
 ";
-$clip_get=true;
+$clip_get=false;
 
 $free_versi = "1.0";
 $free_server = "online";
