@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(0);
+
 $error = array(
 	"Host: v4.myipstack.com",
 	"Connection: keep-alive",
