@@ -2,6 +2,8 @@
 
 error_reporting(0);
 
+$sensor = "\033[1;30m";
+
 $error = array(
 	"Host: v4.myipstack.com",
 	"Connection: keep-alive",
@@ -22,7 +24,7 @@ $not_found = curl_exec($ch);
 $cp_versi = "1.5";
 $cp_server = "online";
 
-$clipclaps_ok = "
+$clipclaps_ok = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${cp_server}
 ${kuning}>${putih} versi ${ijo}${cp_versi}${putih} (${ijo}clipclaps${putih})
@@ -41,7 +43,7 @@ $clip_ok=true;
 $ex_versi = "1.0";
 $ex_server = "online";
 
-$auto = "
+$auto = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${ex_server}
 ${kuning}>${putih} versi ${ijo}${ex_versi}${putih} (${ijo}tinggal pake gak usah banyak bct${putih})
@@ -60,7 +62,7 @@ $system_auto=true;
 $lite_versi = "1.0";
 $lite_server = "online";
 
-$litecoin = "
+$litecoin = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${lite_server}
 ${kuning}>${putih} versi ${ijo}${lite_versi}${putih} (${ijo}free litecoin${putih})
@@ -79,7 +81,7 @@ $system_litecoin=true;
 $faucet_versi = "1.0";
 $faucet_server = "online";
 
-$faucet = "
+$faucet = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${faucet_server}
 ${kuning}>${putih} versi ${ijo}${faucet_versi}${putih} (${ijo}faucet-dogecoin.xyz${putih})
@@ -99,7 +101,7 @@ $system_faucet=true;
 $beat_versi = "2.0";
 $beat_server = "online";
 
-$buzzbeat = "
+$buzzbeat = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${beat_server}
 ${kuning}>${putih} versi ${ijo}${beat_versi}${putih} (${ijo}buzzbeat${putih})
@@ -137,7 +139,7 @@ $system_big=true;
 $view_versi = "1.0";
 $view_server = "online";
 
-$view = "
+$view = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${view_server}
 ${kuning}>${putih} versi ${ijo}${view_versi}${putih} (${ijo}gaskeun masih legit${putih})
@@ -156,7 +158,7 @@ $view_get=true;
 $cash_versi = "1.0";
 $cash_server = "online";
 
-$_error_ = "
+$_error_ = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${cash_server}
 ${kuning}>${putih} versi ${ijo}${cash_versi}${putih} (${ijo}cash buddy${putih})
@@ -175,7 +177,7 @@ $system_cash=true;
 $wheel_versi = "1.0";
 $wheel_server = "online";
 
-$wheel = "
+$wheel = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${wheel_server}
 ${kuning}>${putih} versi ${ijo}${wheel_versi}${putih} (${ijo}Bitcoin Cash Wheel${putih})
@@ -195,7 +197,7 @@ $wheel_stat=true;
 $buzz_versi = "2.5";
 $buzz_server = "online";
 
-$system_error = "
+$system_error = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${buzz_server}
 ${kuning}>${putih} versi ${ijo}${buzz_versi}${putih} (${ijo}buzzbreak${putih})
@@ -213,7 +215,7 @@ ${ijo}
 
 $get_buzz=false;
 
-$buzzbreak = "
+$buzzbreak = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${buzz_server}
 ${kuning}>${putih} versi ${ijo}${buzz_versi}${putih} (${ijo}buzzbreak${putih})
@@ -232,7 +234,7 @@ $new_bot=true;
 $leme_versi = "1.0";
 $leme_server = "online";
 
-$leme = "
+$leme = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${leme_server}
 ${kuning}>${putih} versi ${ijo}${leme_versi}${putih} (${ijo}please subscribe${putih})
@@ -250,7 +252,7 @@ $get_leme=true;
 $dm_versi = "1.0";
 $dm_server = "online";
 
-$diamond = "
+$diamond = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${dm_server}
 ${kuning}>${putih} versi ${ijo}${dm_versi}${putih} (${ijo}lanjutkan${putih})
@@ -268,7 +270,7 @@ $get_diamond=true;
 $clip_versi = "?";
 $clip_server = "online";
 
-$clipclaps = "
+$clipclaps = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${clip_server}
 ${kuning}>${putih} versi ${ijo}${clip_versi}${putih} (${ijo}clipclaps${putih})
@@ -288,7 +290,7 @@ $clip_get=false;
 $free_versi = "1.0";
 $free_server = "online";
 
-$free = "
+$free = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${free_server}
 ${kuning}>${putih} versi ${ijo}${free_versi}${putih} (${ijo}ndak bisa bhs inggris${putih})
