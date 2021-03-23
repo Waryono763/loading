@@ -2,7 +2,7 @@
 
 error_reporting(0);
 
-$sensor = "\033[1;30m";
+$sensor = "\033[0;30m";
 
 $error = array(
 	"Host: v4.myipstack.com",
@@ -20,6 +20,25 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_HTTPHEADER, $error);
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
+
+$trx_versi = "1.0";
+$trx_server = "online";
+
+$tronrex = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${trx_server}
+${kuning}>${putih} versi ${ijo}${trx_versi}${putih} (${ijo}legit${putih})
+${kuning}>${putih} created by ${biru}Waryono
+${kuning}>${ijo} paypal.me/WaryonoAj 😅
+
+${putih}         don't forget to subscribe
+${putih}                (${biru}Waryono Okw${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
+
+";
+$tron=true;
 
 $cp_versi = "1.5";
 $cp_server = "online";
