@@ -32,7 +32,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -51,7 +51,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -70,7 +70,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -89,7 +89,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -108,7 +108,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -128,7 +128,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -147,7 +147,7 @@ ${kuning}>${putih} versi ${ijo}${big_versi}${putih} (${ijo}bigcash${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -166,7 +166,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -185,7 +185,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -204,7 +204,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -223,7 +223,7 @@ ${kuning}>${putih} versi ${ijo}${buzz_versi}${putih} (${ijo}buzzbreak${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -242,7 +242,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -260,7 +260,7 @@ ${kuning}>${putih} versi ${ijo}${leme_versi}${putih} (${ijo}please subscribe${pu
 ${kuning}>${putih} created by ${biru}Waryono
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -278,7 +278,7 @@ ${kuning}>${putih} versi ${ijo}${dm_versi}${putih} (${ijo}lanjutkan${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -296,7 +296,7 @@ ${kuning}>${putih} versi ${ijo}${clip_versi}${putih} (${ijo}clipclaps${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
@@ -317,7 +317,7 @@ ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
 ${putih}         don't forget to subscribe
-${putih}                (${biru}Waryono Okw${putih})
+${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
