@@ -27,7 +27,7 @@ $trx_server = "online";
 $tronrex = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
 ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${trx_server}
-${kuning}>${putih} versi ${ijo}${trx_versi}${putih} (${ijo}legit${putih})
+${kuning}>${putih} versi ${ijo}${trx_versi}${putih} (${ijo}tronrex.online${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 ${kuning}>${ijo} paypal.me/WaryonoAj 😅
 
