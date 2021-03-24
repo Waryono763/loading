@@ -30,7 +30,8 @@ ${kuning}>${putih} server ${ijo}${bcn_server}
 ${kuning}>${putih} versi ${ijo}${bcn_versi}${putih} (${ijo}gas legit ngab${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
-${putih}         don't forget to subscribe                                              ${putih}                (${biru}Waryono Okw${putih})
+${putih}         don't forget to subscribe                                              
+${putih}                (${biru}Waryono Okw${putih})
 ${merah}> warning !!
 ${kuning}> this is an illegal program
 ${kuning}> the risk is entirely borne by the user
