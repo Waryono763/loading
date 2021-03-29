@@ -21,6 +21,24 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$wang_versi = "1.0";
+$wang_server = "online";
+
+$uwang = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
+${kuning}>${putih} ip ${ijo}${not_found}
+${kuning}>${putih} server ${ijo}${wang_server}
+${kuning}>${putih} versi ${ijo}${wang_versi}${putih} (${ijo}UWANG${putih})
+${kuning}>${putih} created by ${biru}Waryono
+
+${putih}         don't forget to subscribe
+${putih}               (${biru}Waryono Ok${putih})
+${merah}> warning !!
+${kuning}> this is an illegal program
+${kuning}> the risk is entirely borne by the user
+
+";
+$gas=true;
+
 $bcn_versi = "1.0";
 $bcn_server = "online";
 
