@@ -21,54 +21,32 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
-$wang_versi = "1.0";
-$wang_server = "online";
-
-$uwang = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${wang_server}
-${kuning}>${putih} versi ${ijo}${wang_versi}${putih} (${ijo}UWANG${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$uwang = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} UWANG
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $gas=true;
 
-$bcn_versi = "1.0";
-$bcn_server = "online";
-
-$BCN = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${bcn_server}
-${kuning}>${putih} versi ${ijo}${bcn_versi}${putih} (${ijo}gas legit ngab${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe                                              
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$BCN = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} penghasil expresscrypto
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $hog=true;
@@ -91,54 +69,32 @@ ${kuning}> the risk is entirely borne by the user
 ";
 $tron=true;
 
-$cp_versi = "1.5";
-$cp_server = "online";
-
-$clipclaps_ok = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${cp_server}
-${kuning}>${putih} versi ${ijo}${cp_versi}${putih} (${ijo}clipclaps${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$clipclaps_ok = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} clipclaps
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.5
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $clip_ok=true;
 
-$ex_versi = "1.0";
-$ex_server = "online";
-
-$auto = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${ex_server}
-${kuning}>${putih} versi ${ijo}${ex_versi}${putih} (${ijo}tinggal pake gak usah banyak bct${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$auto = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} ntah 😂
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $system_auto=true;
@@ -146,78 +102,48 @@ $system_auto=true;
 $lite_versi = "1.0";
 $lite_server = "online";
 
-$litecoin = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${lite_server}
-${kuning}>${putih} versi ${ijo}${lite_versi}${putih} (${ijo}free litecoin${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$litecoin = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} litecoin
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $system_litecoin=true;
 
-$faucet_versi = "1.0";
-$faucet_server = "online";
-
-$faucet = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${faucet_server}
-${kuning}>${putih} versi ${ijo}${faucet_versi}${putih} (${ijo}faucet-dogecoin.xyz${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$faucet = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} ntah 😂
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 
 $system_faucet=true;
 
-$beat_versi = "2.0";
-$beat_server = "online";
-
-$buzzbeat = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${beat_server}
-${kuning}>${putih} versi ${ijo}${beat_versi}${putih} (${ijo}buzzbeat${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$buzzbeat = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} buzzbeat
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 
@@ -241,83 +167,50 @@ ${kuning}> the risk is entirely borne by the user
 ";
 $system_big=true;
 
-$view_versi = "1.0";
-$view_server = "online";
-
-$view = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${view_server}
-${kuning}>${putih} versi ${ijo}${view_versi}${putih} (${ijo}gaskeun masih legit${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$view = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} ntah 😂
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $view_get=true;
 
-$cash_versi = "1.0";
-$cash_server = "online";
-
-$_error_ = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${cash_server}
-${kuning}>${putih} versi ${ijo}${cash_versi}${putih} (${ijo}cash buddy${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$_error_ = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} cash buddy
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $system_cash=true;
 
-$wheel_versi = "1.0";
-$wheel_server = "online";
 
-$wheel = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${wheel_server}
-${kuning}>${putih} versi ${ijo}${wheel_versi}${putih} (${ijo}Bitcoin Cash Wheel${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$wheel = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} Bitcoin Cash Whell
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
-
 $wheel_stat=true;
 
 $buzz_versi = "2.5";
@@ -341,25 +234,17 @@ ${ijo}
 
 $get_buzz=false;
 
-$buzzbreak = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${buzz_server}
-${kuning}>${putih} versi ${ijo}${buzz_versi}${putih} (${ijo}buzzbreak${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$buzzbreak = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} buzzbreak
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.5
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $new_bot=true;
@@ -420,28 +305,17 @@ ${putih}   link :${ijo} https://pastelink.net/2qt8y
 ";
 $clip_get=false;
 
-$free_versi = "1.0";
-$free_server = "online";
-
-$free = "${kuning}>${putih} Copyright © ${biru}Waryono 2021
-${kuning}>${putih} ip ${ijo}${not_found}
-${kuning}>${putih} server ${ijo}${free_server}
-${kuning}>${putih} versi ${ijo}${free_versi}${putih} (${ijo}ndak bisa bhs inggris${putih})
-${kuning}>${putih} created by ${biru}Waryono
-
-${kuning}>${biru} Ayolah yang belum subscribe,
-  channel saya${ijo} mohon Di subscribe ,
-  jangan cuman bisa makek script
-
-${kuning}>${biru} Come on, if you havent subscribed,
-  to the channel,${ijo} please subscribe,
-  don't just make a script
-
-${putih}         don't forget to subscribe
-${putih}               (${biru}Waryono Ok${putih})
-${merah}> warning !!
-${kuning}> this is an illegal program
-${kuning}> the risk is entirely borne by the user
+$free = "${biru}[-] server${ijo} online
+${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${merah}[script]${putih} ntah 😂
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
+-${ijo} Thank you so much for subscribe
+${putih}- - - - - - - - - - - - - - - - - - - - -
+${merah}[!] Warning !!
+${kuning}[-] ini adalah progam ilegal
+${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ";
 $free_get=true;
