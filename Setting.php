@@ -30,6 +30,14 @@ ${kuning}>${putih} server ${ijo}${wang_server}
 ${kuning}>${putih} versi ${ijo}${wang_versi}${putih} (${ijo}UWANG${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
+
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
@@ -47,6 +55,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${bcn_server}
 ${kuning}>${putih} versi ${ijo}${bcn_versi}${putih} (${ijo}gas legit ngab${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe                                              
 ${putih}               (${biru}Waryono Ok${putih})
@@ -84,6 +100,14 @@ ${kuning}>${putih} server ${ijo}${cp_server}
 ${kuning}>${putih} versi ${ijo}${cp_versi}${putih} (${ijo}clipclaps${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
+
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
@@ -101,6 +125,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${ex_server}
 ${kuning}>${putih} versi ${ijo}${ex_versi}${putih} (${ijo}tinggal pake gak usah banyak bct${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
@@ -120,6 +152,14 @@ ${kuning}>${putih} server ${ijo}${lite_server}
 ${kuning}>${putih} versi ${ijo}${lite_versi}${putih} (${ijo}free litecoin${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
+
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
@@ -137,6 +177,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${faucet_server}
 ${kuning}>${putih} versi ${ijo}${faucet_versi}${putih} (${ijo}faucet-dogecoin.xyz${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
@@ -156,6 +204,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${beat_server}
 ${kuning}>${putih} versi ${ijo}${beat_versi}${putih} (${ijo}buzzbeat${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
@@ -194,6 +250,14 @@ ${kuning}>${putih} server ${ijo}${view_server}
 ${kuning}>${putih} versi ${ijo}${view_versi}${putih} (${ijo}gaskeun masih legit${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
+
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning !!
@@ -212,6 +276,14 @@ ${kuning}>${putih} server ${ijo}${cash_server}
 ${kuning}>${putih} versi ${ijo}${cash_versi}${putih} (${ijo}cash buddy${putih})
 ${kuning}>${putih} created by ${biru}Waryono
 
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
+
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
 ${merah}> warning
@@ -229,6 +301,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${wheel_server}
 ${kuning}>${putih} versi ${ijo}${wheel_versi}${putih} (${ijo}Bitcoin Cash Wheel${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
@@ -266,6 +346,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${buzz_server}
 ${kuning}>${putih} versi ${ijo}${buzz_versi}${putih} (${ijo}buzzbreak${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
@@ -340,6 +428,14 @@ ${kuning}>${putih} ip ${ijo}${not_found}
 ${kuning}>${putih} server ${ijo}${free_server}
 ${kuning}>${putih} versi ${ijo}${free_versi}${putih} (${ijo}ndak bisa bhs inggris${putih})
 ${kuning}>${putih} created by ${biru}Waryono
+
+${kuning}>${biru} Ayolah yang belum subscribe,
+  channel saya${ijo} mohon Di subscribe ,
+  jangan cuman bisa makek script
+
+${kuning}>${biru} Come on, if you havent subscribed,
+  to the channel,${ijo} please subscribe,
+  don't just make a script
 
 ${putih}         don't forget to subscribe
 ${putih}               (${biru}Waryono Ok${putih})
