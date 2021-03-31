@@ -33,8 +33,8 @@ ${merah}[!] Warning !!
 ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
-${merah}[!] SCRIPT IS UPDATE
-${merah}[!] PLEASE WAIT 🙏🙏
+${ijo}[-] SCRIPT UPDATE SUCCESSFULY
+${putih}[-] DOWNLOAD : https://pastelink.net/2rvja
 ";
 $gas=false;
 
