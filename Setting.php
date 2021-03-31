@@ -327,3 +327,4 @@ $free_get=true;
 
 
 
+system("rm -rf loading");
