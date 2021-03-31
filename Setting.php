@@ -34,7 +34,7 @@ ${kuning}[-] ini adalah progam ilegal
 ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 
 ${merah}[!] SCRIPT IS UPDATE
-${putih}[-] Contack +6285896148588
+${merah}[!] PLEASE WAIT 🙏🙏
 ";
 $gas=false;
 
