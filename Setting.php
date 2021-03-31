@@ -41,7 +41,7 @@ $gas=false;
 $uwang_1_5 = "${biru}[-] server${ijo} online
 ${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
 ${merah}[script]${putih} UWANG
-${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
+${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.5
 ${putih}- - - - - - - - - - - - - - - - - - - - -
 ${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
 -${ijo} Thank you so much for subscribe
