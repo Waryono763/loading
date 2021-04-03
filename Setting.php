@@ -22,7 +22,7 @@ $ch = curl_init();
 $not_found = curl_exec($ch);
 
 $uwang = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} UWANG
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -39,7 +39,7 @@ ${putih}[-] DOWNLOAD : https://pastelink.net/2rvja
 $gas=false;
 
 $uwang_1_5 = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} UWANG
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.5
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -54,7 +54,7 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 $uwaw=true;
 
 $BCN = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} penghasil expresscrypto
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -87,7 +87,7 @@ ${kuning}> the risk is entirely borne by the user
 $tron=true;
 
 $clipclaps_ok = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} clipclaps
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.5
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -102,7 +102,7 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 $clip_ok=true;
 
 $auto = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} ntah 😂
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -120,7 +120,7 @@ $lite_versi = "1.0";
 $lite_server = "online";
 
 $litecoin = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} litecoin
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -135,7 +135,7 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 $system_litecoin=true;
 
 $faucet = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} ntah 😂
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -151,7 +151,7 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 $system_faucet=true;
 
 $buzzbeat = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} buzzbeat
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -185,7 +185,7 @@ ${kuning}> the risk is entirely borne by the user
 $system_big=true;
 
 $view = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} ntah 😂
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -200,7 +200,7 @@ ${kuning}[-] resiko sepenuhnya di tanggung pengguna
 $view_get=true;
 
 $_error_ = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} cash buddy
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -216,7 +216,7 @@ $system_cash=true;
 
 
 $wheel = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} Bitcoin Cash Whell
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -252,7 +252,7 @@ ${ijo}
 $get_buzz=false;
 
 $buzzbreak = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} buzzbreak
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.5
 ${putih}- - - - - - - - - - - - - - - - - - - - -
@@ -323,7 +323,7 @@ ${putih}   link :${ijo} https://pastelink.net/2qt8y
 $clip_get=false;
 
 $free = "${biru}[-] server${ijo} online
-${biru}[-] join groub${ijo} https://bit.ly/31yWi6x
+${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} ntah 😂
 ${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.0
 ${putih}- - - - - - - - - - - - - - - - - - - - -
