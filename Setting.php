@@ -251,17 +251,18 @@ ${ijo}
 
 $get_buzz=false;
 
-$buzzbreak = "${biru}[-] server${ijo} online
-${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
-${merah}[script]${putih} buzzbreak
-${biru}[creator]${putih} Waryono${biru} [version]${putih} 2.5
-${putih}- - - - - - - - - - - - - - - - - - - - -
-${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
--${ijo} Thank you so much for subscribe
-${putih}- - - - - - - - - - - - - - - - - - - - -
-${merah}[!] Warning !!
-${kuning}[-] ini adalah progam ilegal
-${kuning}[-] resiko sepenuhnya di tanggung pengguna
+$buzzbreak = "${merah}
+    ╔╗ ╦ ╦╔═╗╔═╗╔╗ ╦═╗╔═╗╔═╗╦╔═
+    ╠╩╗║ ║╔═╝╔═╝╠╩╗╠╦╝║╣ ╠═╣╠╩╗
+    ╚═╝╚═╝╚═╝╚═╝╚═╝╩╚═╚═╝╩ ╩╩ ╩
+${kuning} >${putih}===============================${kuning}<
+${putih} #created by ${biru}:(
+${putih} #channel by ${biru}Waryono Ok
+${putih} #telegram${biru} @OKofficial_new
+${kuning} >${putih}===============================${kuning}<
+${merah} Warning !!
+${kuning} ini adalah proggam ilegal
+${kuning} resiko di tanggung pengguna
 
 ";
 $new_bot=true;
