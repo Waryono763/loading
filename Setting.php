@@ -86,17 +86,18 @@ ${kuning}> the risk is entirely borne by the user
 ";
 $tron=true;
 
-$clipclaps_ok = "${biru}[-] server${ijo} online
-${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
-${merah}[script]${putih} clipclaps
-${biru}[creator]${putih} Waryono${biru} [version]${putih} 1.5
-${putih}- - - - - - - - - - - - - - - - - - - - -
-${putih}- Subscribe My Channel [${ijo}Waryono Ok${putih}]
--${ijo} Thank you so much for subscribe
-${putih}- - - - - - - - - - - - - - - - - - - - -
-${merah}[!] Warning !!
-${kuning}[-] ini adalah progam ilegal
-${kuning}[-] resiko sepenuhnya di tanggung pengguna
+$clipclaps_ok = "${merah}
+     ╔═╗╦  ╦╔═╗╔═╗╦  ╔═╗╔═╗╔═╗
+     ║  ║  ║╠═╝║  ║  ╠═╣╠═╝╚═╗
+     ╚═╝╩═╝╩╩  ╚═╝╩═╝╩ ╩╩  ╚═╝
+${kuning} >${putih}===============================${kuning}<
+${putih} #created by ${biru}:(
+${putih} #channel by ${biru}Waryono Ok
+${putih} #telegram${biru} @OKofficial_new
+${kuning} >${putih}===============================${kuning}<
+${merah} Warning !!
+${kuning} ini adalah proggam ilegal
+${kuning} resiko di tanggung pengguna
 
 ";
 $clip_ok=true;
