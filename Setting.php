@@ -21,6 +21,26 @@ $ch = curl_init();
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
 $not_found = curl_exec($ch);
 
+$captcha4doge = "${biru}
+   ▓█████▄  ▒█████    ▄████ ▓█████
+   ▒██▀ ██▌▒██▒  ██▒ ██▒ ▀█▒▓█   ▀
+   ░██   █▌▒██░  ██▒▒██░▄▄▄░▒███${ijo}
+   ░▓█▄   ▌▒██   ██░░▓█  ██▓▒▓█  ▄
+   ░▒████▓ ░ ████▓▒░░▒▓███▀▒░▒████▒${merah}
+    ▒▒▓  ▒ ░ ▒░▒░▒░  ░▒   ▒ ░░ ▒░ ░
+${putih}(${merah}%${putih}___________________________________${merah}%${putih})
+${putih}   created by:${biru} Waryono
+${putih}   channel by:${biru} Waryono Ok
+${putih}   script:${biru} captcha4doge.com
+${putih}   versi:${biru} 2.0
+${putih}(${merah}%${putih}___________________________________${merah}%${putih})
+${merah}[!] Warning !!
+${kuning}    ini adalah proggam ilegal
+    resiko di tanggung pengguna
+
+";
+$doge4=true;
+
 $uwang = "${biru}[-] server${ijo} online
 ${biru}[-] Telegram${putih} : https://t.me/OKofficial_new
 ${merah}[script]${putih} UWANG
