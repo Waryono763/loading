@@ -107,18 +107,24 @@ ${kuning}> the risk is entirely borne by the user
 ";
 $tron=true;
 
-$clipclaps_ok = "${merah}
-     ╔═╗╦  ╦╔═╗╔═╗╦  ╔═╗╔═╗╔═╗
-     ║  ║  ║╠═╝║  ║  ╠═╣╠═╝╚═╗
-     ╚═╝╩═╝╩╩  ╚═╝╩═╝╩ ╩╩  ╚═╝
-${kuning} >${putih}===============================${kuning}<
-${putih} #created by ${biru}:(
-${putih} #channel by ${biru}Waryono Ok
-${putih} #telegram${biru} @OKofficial_new
-${kuning} >${putih}===============================${kuning}<
-${merah} Warning !!
-${kuning} ini adalah proggam ilegal
-${kuning} resiko di tanggung pengguna
+$clipclaps_ok = "${ijo}
+   ____   _         _       ____     ____
+  / ___| | |       / \     |  _ \   / __ |
+\| |     | |     \/ _ \/  \| |_) |/<\___ \/
+ | |/__ \| |/__  / ___ \   |  __/    ___) |
+  \____| |_____|/_/   \_\  |_|      |____/>>
+  (__)(__)(_)(_)(__)  (__)(__)__)   (__)
+
+${putih}JANGAN LUPA SUBREK BOR
+${putih}CHANNEL :${biru} Waryono Ok
+${putih}YOUR IP :${biru} ${not_found}
+${putih}SCRIPT  :${biru} clipclaps
+${putih}VERSION :${biru} 1.5${putih} (${merah}FREE${putih})
+${putih}INFO    :${biru} Aplikasi ClipClap Legit!
+${putih}~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+${merah}Warning !!
+${kuning}ini adalah proggam ilegal
+${kuning}resiko di tanggung pengguna
 
 ";
 $clip_ok=true;
